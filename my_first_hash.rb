@@ -1,6 +1,6 @@
 def my_hash
   workout = {
-    "Leg Day" => "Squats"
+    "Leg Day" => "Squats",
     "Core Day" => "Deadlifting"
   }
 
